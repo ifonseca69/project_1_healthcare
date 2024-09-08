@@ -21,5 +21,16 @@ The first step in our data analysis is to ensure the dataset is clean and struct
 6. Renaming for Clarity:
     - To improve clarity and readability, several columns are renamed. 
 
-# Task 2: Data Exploration and Analysis: 
-The analysis of the cleaned health dataset reveals significant insights into mortality rates associated with heart disease and stroke across various demographics in the United States. It encompasses three key tasks like data exploration, data transformation and analysis report. In data transformation, we performed exploratory data analysis (EDA) to identify trends, patterns, and outliers. Data transformation involves preparing the data for detailed analysis by creating new variables, aggregating data, and performing preliminary statistical analysis. And the last part is analysis write-up, where we drafted a summary of our major findings and discuss their implications. This structured approach aims to provide valuable insights into mortality trends based on certain attributes like gender, age, race, cause of death. By examining trends over time, demographic disparities, and geographical variations, we can draw meaningful conclusions that may inform public health strategies and policies. The analysis of mortality rates related to heart disease and stroke across various demographics in the United States has uncovered critical trends and disparities that have significant public health implications. Addressing these issues through targeted interventions, a focus on health equity, and continued research will be essential in reducing the burden of these diseases and improving health outcomes for all Americans.
+# Task 2: Data Exploration and Analysis
+In this phase, we focus on exploring the cleaned health dataset to gain key insights into mortality rates related to heart disease and stroke across various demographics in the United States. The process is divided into three main steps: data exploration, transformation, and report generation.
+
+1. Data Exploration:
+    - We begin with exploratory data analysis to investigate trends, patterns, and potential outliers. This step helps us understand the relationships between variables such as age, gender, race, and cause of death.
+    - Line plots and boxplots are used to assess mortality trends over time and compare distributions across different demographic groups.
+2. Data Transformation:
+    - The dataset is prepared for detailed analysis by creating new variables, aggregating data, and conducting preliminary statistical analysis. This involves grouping data by key factors (e.g., year, cause of death, demographic group) and calculating summary statistics, such as means and variances.
+    - Additional transformations include handling skewed data and normalizing variables where necessary.
+3. Analysis Report:
+    - We drafted a summary of our findings, interpreting the trends and patterns uncovered during the analysis. This report highlights significant insights into mortality disparities across gender, age, race, and geographical location, with a focus on heart disease and stroke.
+
+By systematically exploring trends over time, demographic disparities, and geographical variations, we uncover critical patterns that have important public health implications. Addressing these issues through targeted interventions, a focus on health equity, and ongoing research is essential to reducing the burden of heart disease and stroke and improving health outcomes in the United States.
