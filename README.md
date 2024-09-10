@@ -38,7 +38,3 @@ In this phase, we focus on exploring the cleaned health dataset to gain key insi
 
 By systematically exploring trends over time, demographic disparities, and geographical variations, we uncover critical patterns that have important public health implications. Addressing these issues through targeted interventions, a focus on health equity, and ongoing research is essential to reducing the burden of heart disease and stroke and improving health outcomes in the United States.
 
-What we need to add: 
-1. Usage and installation instructions
-2. Examples of the application
-3. The results and a summary of the analysis
