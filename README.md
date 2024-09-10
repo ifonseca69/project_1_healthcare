@@ -2,7 +2,10 @@
 
 **Anticipating Heart Disease Trends: A Predictive Analysis of US Mortality Rates**
 
+
 This project seeks to conduct a comprehensive exploratory data analysis (EDA) of heart disease and stroke mortality rates among U.S. adults aged 35 and older from 2000 to 2019. The project will not only analyze historical trends but also develop predictive models to forecast future mortality rates. By examining demographic factors such as age, race/ethnicity, and sex, as well as geographic variations across counties, the project aims to uncover significant patterns and project potential future outcomes.
+
+The primary notebook for this project is exploratory_data_analysis.ipynb, which contains the comprehensive code and workflows for cleaning, exploring, and analyzing the dataset. It includes all the steps from data preprocessing to visualization and provides insights into the trends in cardiovascular disease mortality across different states.
 
 # Task 1: Data Cleaning
 The first step in our data analysis is to ensure the dataset is clean and structured. This process focuses on loading the CSV file, handling missing data, filtering irrelevant information, and ensuring that the data is prepared for analysis.
